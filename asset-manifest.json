@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GaanaBajana-website/static/css/main.e6c13ad2.css",
+    "main.js": "/GaanaBajana-website/static/js/main.d8e5c442.js",
+    "static/js/787.29e6f166.chunk.js": "/GaanaBajana-website/static/js/787.29e6f166.chunk.js",
+    "index.html": "/GaanaBajana-website/index.html",
+    "main.e6c13ad2.css.map": "/GaanaBajana-website/static/css/main.e6c13ad2.css.map",
+    "main.d8e5c442.js.map": "/GaanaBajana-website/static/js/main.d8e5c442.js.map",
+    "787.29e6f166.chunk.js.map": "/GaanaBajana-website/static/js/787.29e6f166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d8e5c442.js"
+  ]
+}
